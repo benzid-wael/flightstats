@@ -1,0 +1,5 @@
+flightstats
+===========
+
+.. automodule:: flightstats
+    :members:

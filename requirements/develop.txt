@@ -1,0 +1,9 @@
+-r test.txt
+
+# for configuration
+bumpversion==0.5.3
+isort==4.0.0
+
+# code quality
+pyflakes==0.8.1
+
