@@ -17,17 +17,18 @@ flightstats
     :target: https://readthedocs.org/projects/flightstats
     :alt: Documentation Status
 
-.. |travis| image:: https://img.shields.io/travis/benzid-wael/flightstats/master.svg?style=flat&label=Travis
+.. |Travis| image:: https://travis-ci.org/benzid-wael/flightstats.svg?branch=master
     :alt: Travis-CI Build Status
     :target: https://travis-ci.org/benzid-wael/flightstats
 
-.. |appveyor| image:: https://img.shields.io/appveyor/ci/benzid-wael/flightstats/master.svg?style=flat&label=AppVeyor
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/hr25dpppiqv29onf?svg=true
     :alt: AppVeyor Build Status
     :target: https://ci.appveyor.com/project/benzid-wael/flightstats
 
-.. |coveralls| image:: https://img.shields.io/coveralls/benzid-wael/flightstats/master.svg?style=flat&label=Coveralls
-    :alt: Coverage Status
-    :target: https://coveralls.io/r/benzid-wael/flightstats
+
+.. |coveralls| image:: https://coveralls.io/repos/benzid-wael/flightstats/badge.svg?branch=develop&service=github
+  :alt: Coveralls Coverage Status
+  :target: https://coveralls.io/github/benzid-wael/flightstats?branch=master
 
 
 .. |codecov| image:: https://img.shields.io/codecov/c/github/benzid-wael/flightstats/master.svg?style=flat&label=Codecov
