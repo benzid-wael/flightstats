@@ -57,11 +57,8 @@ flightstats
     :alt: PyPI Package monthly downloads
     :target: https://pypi.python.org/pypi/flightstats
 
-.. |scrutinizer| image:: https://img.shields.io/scrutinizer/g/benzid-wael/flightstats/master.svg?style=flat
-    :alt: Scrutinizer Status
-    :target: https://scrutinizer-ci.com/g/benzid-wael/flightstats/
 
-Pthon client for the FlightStats Flex APIs
+Python client for the FlightStats Flex APIs
 
 * Free software: BSD license
 
