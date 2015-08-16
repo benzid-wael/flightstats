@@ -9,7 +9,7 @@ flightstats
       - |docs|
     * - tests
       - | |travis| |appveyor|
-        | |coveralls| |codecov| |landscape| |scrutinizer| |codacy| |codeclimate|
+        | |coveralls| |codecov| |landscape| |codacy|
     * - package
       - |version| |downloads|
 
@@ -32,7 +32,7 @@ flightstats
 
 .. |codecov| image:: https://img.shields.io/codecov/c/github/benzid-wael/flightstats/master.svg?style=flat&label=Codecov
     :alt: Coverage Status
-    :target: https://codecov.io/github/benzid-wael/flightstats
+    :target: http://codecov.io/github/benzid-wael/flightstats?branch=master
 
 
 .. |landscape| image:: https://landscape.io/github/benzid-wael/flightstats/master/landscape.svg?style=flat
@@ -40,14 +40,9 @@ flightstats
     :alt: Code Quality Status
 
 
-.. |codacy| image:: https://img.shields.io/codacy/REPLACE_WITH_PROJECT_ID.svg?style=flat&label=Codacy
+.. |codacy| image:: https://img.shields.io/codacy/defdc1594d614bdca7c887010c8e2ead.svg?style=flat&label=Codacy
     :target: https://www.codacy.com/app/benzid-wael/flightstats
     :alt: Codacy Code Quality Status
-
-
-.. |codeclimate| image::  	https://img.shields.io/codeclimate/github/benzid-wael/flightstats.svg?style=flat&label=CodeClimate
-   :target: https://codeclimate.com/github/benzid-wael/flightstats
-   :alt: CodeClimate Quality Status
 
 .. |version| image:: https://img.shields.io/pypi/v/flightstats.svg?style=flat
     :alt: PyPI Package latest release
